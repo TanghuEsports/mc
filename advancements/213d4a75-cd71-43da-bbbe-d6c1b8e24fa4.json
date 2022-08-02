@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-31 19:03:44 +0800"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-07-31 21:15:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-08-02 17:52:28 +0800"
     },
     "done": true
   },
@@ -143,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-07-31 17:48:20 +0800"
@@ -173,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-31 17:56:05 +0800"
@@ -182,6 +206,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-31 19:03:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
     },
     "done": true
   },
@@ -230,6 +260,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2022-07-31 17:48:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
     },
     "done": true
   },
@@ -297,6 +333,7 @@
     "criteria": {
       "cooked_porkchop": "2022-07-31 17:58:43 +0800",
       "cooked_mutton": "2022-07-31 18:21:55 +0800",
+      "cooked_beef": "2022-08-02 17:21:51 +0800",
       "apple": "2022-07-31 19:10:38 +0800"
     },
     "done": false
@@ -490,6 +527,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-07-31 19:04:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
     },
     "done": true
   },
@@ -787,6 +830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2022-07-31 17:48:43 +0800"
@@ -828,6 +877,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2022-07-31 21:20:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-08-02 17:52:28 +0800"
     },
     "done": true
   },
@@ -1047,6 +1102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2022-07-31 21:20:28 +0800"
@@ -1116,6 +1177,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-07-31 18:07:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
     },
     "done": true
   },
@@ -1305,6 +1372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2022-07-31 17:48:20 +0800"
@@ -1449,6 +1522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2022-07-31 18:48:11 +0800"
@@ -1541,6 +1620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2022-07-31 18:48:11 +0800"
@@ -1556,6 +1641,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-07-31 17:48:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
     },
     "done": true
   },
@@ -1618,6 +1709,18 @@
       "has_iron_ingot": "2022-07-31 18:20:05 +0800"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2022-08-02 17:50:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2022-08-02 17:52:29 +0800"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
