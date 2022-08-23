@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2022-08-23 20:19:06 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-07-31 18:20:05 +0800"
@@ -623,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2022-08-23 20:15:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-31 17:56:05 +0800"
@@ -638,6 +650,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-08-02 17:50:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2022-08-23 20:45:15 +0800"
     },
     "done": true
   },
@@ -676,6 +694,7 @@
       "minecraft:creeper": "2022-08-03 20:35:11 +0800",
       "minecraft:zombified_piglin": "2022-08-02 21:42:11 +0800",
       "minecraft:wither_skeleton": "2022-08-23 17:47:40 +0800",
+      "minecraft:ender_dragon": "2022-08-23 20:45:15 +0800",
       "minecraft:silverfish": "2022-08-05 17:33:46 +0800",
       "minecraft:enderman": "2022-08-05 21:25:52 +0800",
       "minecraft:zombie": "2022-07-31 18:06:10 +0800"
@@ -904,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-08-23 20:31:36 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-07-31 17:46:55 +0800"
@@ -967,6 +992,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2022-08-06 16:21:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2022-08-23 20:16:28 +0800"
     },
     "done": true
   },
@@ -1036,6 +1067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2022-08-23 20:19:06 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2022-07-31 17:48:03 +0800"
@@ -1045,6 +1082,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-07-31 19:04:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2022-08-23 20:16:28 +0800"
     },
     "done": true
   },
@@ -1081,6 +1124,18 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2022-07-31 21:22:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2022-08-23 20:15:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2022-08-23 20:19:06 +0800"
     },
     "done": true
   },
@@ -1293,6 +1348,7 @@
       "minecraft:birch_forest": "2022-07-31 18:25:14 +0800",
       "minecraft:beach": "2022-07-31 21:14:30 +0800",
       "minecraft:dark_forest": "2022-07-31 21:24:43 +0800",
+      "minecraft:sparse_jungle": "2022-08-23 20:20:57 +0800",
       "minecraft:river": "2022-07-31 17:50:47 +0800",
       "minecraft:dripstone_caves": "2022-07-31 19:11:36 +0800",
       "minecraft:forest": "2022-07-31 17:48:01 +0800",
@@ -1324,6 +1380,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-07-31 17:48:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2022-08-23 20:16:28 +0800"
     },
     "done": true
   },
@@ -1423,6 +1485,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2022-08-23 20:47:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2022-07-31 21:20:30 +0800"
@@ -1444,6 +1512,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2022-08-02 18:20:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2022-08-23 20:18:10 +0800"
     },
     "done": true
   },
@@ -1472,6 +1546,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2022-07-31 21:15:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2022-08-23 20:21:25 +0800"
     },
     "done": true
   },
@@ -1538,6 +1618,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-07-31 17:48:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2022-08-23 20:21:25 +0800"
     },
     "done": true
   },
@@ -1718,6 +1804,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-31 17:56:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-08-23 20:31:46 +0800"
     },
     "done": true
   },
@@ -2562,6 +2654,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-08-23 20:31:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-08-23 20:31:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-07-31 17:46:55 +0800"
@@ -2625,6 +2729,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2022-08-02 18:20:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2022-08-23 20:15:10 +0800"
     },
     "done": true
   },
@@ -2826,6 +2936,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2022-08-23 21:12:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2022-08-02 18:17:49 +0800"
@@ -2976,6 +3092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-08-23 20:31:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-07-31 18:20:05 +0800"
@@ -3021,6 +3143,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-31 17:56:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-08-23 20:31:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-08-23 20:31:46 +0800"
     },
     "done": true
   },
